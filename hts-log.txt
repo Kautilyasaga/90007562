@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 09 Dec 2023 17:11:57 at https://cfo268.wixsite.com/my-site-19 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cfo268.wixsite.com/my-site-19 -O1 "C:\My Web Sites\project aaroha" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:13:10	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/ (from https://cfo268.wixsite.com/my-site-19)
+17:13:36	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/"https://images-vod.wixmp.com/c837a6d8-f31f-4e14-9740-9122ecf7eb53/images/7b29db552ef6467d8af3aae4f2a2c86c~mv2/v1/fill/w_320,h_180,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19)
+17:13:36	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/"https://images-vod.wixmp.com/c837a6d8-f31f-4e14-9740-9122ecf7eb53/images/e14ed8631a704c1e893f2d6c5bda2446~mv2/v1/fill/w_320,h_180,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19)
+17:13:36	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cfo268.wixsite.com/"https://images-vod.wixmp.com/c837a6d8-f31f-4e14-9740-9122ecf7eb53/images/cd9675edef284bc8a7ed95603f236aba~mv2/v1/fill/w_320,h_180,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19)
+17:13:36	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/"https://images-vod.wixmp.com/c837a6d8-f31f-4e14-9740-9122ecf7eb53/images/012245021de948278f93179654f9652b~mv2/v1/fill/w_320,h_180,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19)
+17:13:36	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/"https://images-vod.wixmp.com/84770f67-ecbd-44b6-b35a-584f2dc15af1/images/75ff3e141ff24d51901235013279c76a~mv2/v1/fill/w_670,h_377,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/sitemap.xml (from https://cfo268.wixsite.com/my-site-19)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/feed.xml (from https://cfo268.wixsite.com/my-site-19)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/${n.uri} (from https://cfo268.wixsite.com/my-site-19)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/decodeURIComponent(e (from https://cfo268.wixsite.com/my-site-19)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/robots.txt (from https://cfo268.wixsite.com/my-site-19/memberships)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/sitemap.xml (from https://cfo268.wixsite.com/my-site-19/memberships)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/feed.xml (from https://cfo268.wixsite.com/my-site-19/memberships)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/${n.uri} (from https://cfo268.wixsite.com/my-site-19/memberships)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/decodeURIComponent(e (from https://cfo268.wixsite.com/my-site-19/memberships)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/"https://images-vod.wixmp.com/c837a6d8-f31f-4e14-9740-9122ecf7eb53/images/cd9675edef284bc8a7ed95603f236aba~mv2/v1/fill/w_320,h_180,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/"https://images-vod.wixmp.com/c837a6d8-f31f-4e14-9740-9122ecf7eb53/images/0d420846a7c14bb7aecfd08e39601298~mv2/v1/fill/w_275,h_155,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19/virtual-classes)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/"https://images-vod.wixmp.com/c837a6d8-f31f-4e14-9740-9122ecf7eb53/images/d30f1fab10f544908ee15116f4a9e994~mv2/v1/fill/w_275,h_155,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19/virtual-classes)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/"https://images-vod.wixmp.com/c837a6d8-f31f-4e14-9740-9122ecf7eb53/images/7b29db552ef6467d8af3aae4f2a2c86c~mv2/v1/fill/w_275,h_155,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19/virtual-classes)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/"https://images-vod.wixmp.com/c837a6d8-f31f-4e14-9740-9122ecf7eb53/images/e14ed8631a704c1e893f2d6c5bda2446~mv2/v1/fill/w_275,h_155,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19/virtual-classes)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/"https://images-vod.wixmp.com/c837a6d8-f31f-4e14-9740-9122ecf7eb53/images/cd9675edef284bc8a7ed95603f236aba~mv2/v1/fill/w_275,h_155,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19/virtual-classes)
+17:14:11	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/"https://images-vod.wixmp.com/c837a6d8-f31f-4e14-9740-9122ecf7eb53/images/012245021de948278f93179654f9652b~mv2/v1/fill/w_275,h_155,q_85,usm_0.66_1.00_0.01,enc_auto/file.jpg" (from https://cfo268.wixsite.com/my-site-19/virtual-classes)
+17:14:39	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/challenge-page/sitemap.xml (from https://cfo268.wixsite.com/my-site-19/challenge-page/c2489f35-c25e-4790-a4e2-0346f9362b3b)
+17:14:39	Error: 	"Not Found" (404) at link https://cfo268.wixsite.com/my-site-19/challenge-page/feed.xml (from https://cfo268.wixsite.com/my-site-19/challenge-page/c2489f35-c25e-4790-a4e2-0346f9362b3b)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 50 seconds : 75 links scanned, 50 files written (17484420 bytes overall) [4107958 bytes received at 24164 bytes/sec], 17461105 bytes transferred using HTTP compression in 58 files, ratio 22%, 1.1 requests per connection
+(23 errors, 1 warnings, 0 messages)
